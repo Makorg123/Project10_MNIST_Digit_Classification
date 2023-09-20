@@ -1,5 +1,9 @@
 # MNIST Digit Classification using Neural Network
 
+<div align="center">
+  <img src="MnistExamplesModified.png" alt="Alt Text">
+</div>
+
 ### Overview
 This repository contains the code for a deep learning project that uses a neural network to classify handwritten digits from the MNIST dataset. The MNIST dataset is a popular benchmark in the field of computer vision and deep learning, consisting of 28x28 pixel grayscale images of handwritten digits (0 through 9).
 
